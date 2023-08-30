@@ -1,4 +1,3 @@
-### Hi there 👋
 [![akinolaemmanuel49's Holopin board](https://holopin.io/api/user/board?user=krazykahunaguy)](https://holopin.io/@krazykahunaguy)
 
 ![@akinolaemmanuel49's profile view](https://komarev.com/ghpvc/?username=akinolaemmanuel49&style=for-the-badge)
