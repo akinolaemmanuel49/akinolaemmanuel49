@@ -1,4 +1,27 @@
 ### Hi there 👋
+[![akinolaemmanuel49's Holopin board](https://holopin.io/api/user/board?user=krazykahunaguy)](https://holopin.io/@krazykahunaguy)
+
+![@akinolaemmanuel49's profile view](https://komarev.com/ghpvc/?username=akinolaemmanuel49&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge")
+
+### Hi there 👋
+- My name is **Akinola Abiodun Emmanuel** 
+- 📖 I’m currently studying computer engineering 
+- 🌱 ... always learning
+- I am a **Python developer**
+- I am interested in **Python Golang Typescript**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤔 I’m looking for help with ... currently **Internships**
+- 📫 How to reach me: **Gmail: akinolaemmanuel49@gmail.com**
+- 💬 Ask me about anything relating to python
+- I use **VSCode** 
+&nbsp;
+
+## :chart_with_upwards_trend:   My Github and WakaTime Stats
+[![Onif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akinolaemmanuel49&border_radius=10)](#)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=akinolaemmanuel49&show_icons=true&theme=default&border_radius=10)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinolaemmanuel49&layout=compact&border_radius=10)](https://github.com/akinolaemmanuel49/akinolaemmanuel49)
 
 <!--
 **akinolaemmanuel49/akinolaemmanuel49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
