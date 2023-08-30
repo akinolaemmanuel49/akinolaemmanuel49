@@ -1,18 +1,18 @@
 ### Hi there 👋
 [![akinolaemmanuel49's Holopin board](https://holopin.io/api/user/board?user=krazykahunaguy)](https://holopin.io/@krazykahunaguy)
 
-![@akinolaemmanuel49's profile view](https://komarev.com/ghpvc/?username=akinolaemmanuel49&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge")
+![@akinolaemmanuel49's profile view](https://komarev.com/ghpvc/?username=akinolaemmanuel49&style=for-the-badge)
 
 ### Hi there 👋
 - My name is **Akinola Abiodun Emmanuel** 
 - 📖 I’m currently studying computer engineering 
 - 🌱 ... always learning
 - I am a **Python developer**
-- I am interested in **Python Golang Typescript**
+- I am interested in **Python JavaScript TypeScript Golang**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with ... currently **Internships**
 - 📫 How to reach me: **Gmail: akinolaemmanuel49@gmail.com**
-- 💬 Ask me about anything relating to python
+- 💬 Ask me about anything relating to **python**
 - I use **VSCode** 
 &nbsp;
 
