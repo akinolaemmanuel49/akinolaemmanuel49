@@ -17,9 +17,8 @@
 &nbsp;
 
 ## :chart_with_upwards_trend:   My Github and WakaTime Stats
-[![Onif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akinolaemmanuel49&border_radius=10)](#)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=akinolaemmanuel49&show_icons=true&theme=default&border_radius=10)
+[![akinolaemmanuel49's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akinolaemmanuel49&border_radius=10)](#)
+![akinolaemmanuel49's github stats](https://github-readme-stats.vercel.app/api?username=akinolaemmanuel49&show_icons=true&theme=default&border_radius=10)
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinolaemmanuel49&layout=compact&border_radius=10)](https://github.com/akinolaemmanuel49/akinolaemmanuel49)
 
