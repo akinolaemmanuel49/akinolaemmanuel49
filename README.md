@@ -23,7 +23,7 @@
   </div>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akinolaemmanuel49" width="100%" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akinolaemmanuel49" />
     </a>
   </div>
 </div>
