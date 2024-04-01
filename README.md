@@ -12,20 +12,16 @@
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinolaemmanuel49&layout=compact&border_radius=10)](https://github.com/akinolaemmanuel49/akinolaemmanuel49)
 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akinolaemmanuel49" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akinolaemmanuel49&layout=compact&langs_count=8&card_width=380" />
+</a>
 <div align="center">
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akinolaemmanuel49" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akinolaemmanuel49&layout=compact&langs_count=8&card_width=380" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akinolaemmanuel49" />
-    </a>
-  </div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akinolaemmanuel49" />
+  </a>
 </div>
 
 
