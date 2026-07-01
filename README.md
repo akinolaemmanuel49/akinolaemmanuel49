@@ -8,13 +8,6 @@ I'm a Computer Engineering graduate and a backend-focused developer passionate a
 
 ---
 
-## 🚀 What I'm working on
-- **Naija Flood Watch** – a disaster alert platform leveraging the OpenWeather API
-- **Tee Rex** – a shirt vendor app with a full e-commerce stack and admin dashboard
-- **SketchStack** – a backend scaffolding tool to streamline project setups in Go
-
----
-
 ## 💡 What I enjoy
 - Exploring **AI/ML**, **IoT**, and **fintech**
 - Writing clean, testable code and optimizing developer experience
